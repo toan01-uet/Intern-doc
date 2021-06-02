@@ -5,7 +5,7 @@ recommendation internship in Vccorp
 - Note from Deeplearning.ai coureses: [link!](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - Deeplearning chatsheet: [link!](https://stanford.edu/~shervine/l/vi/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 - My Seq2seq model note : [link!](https://docs.google.com/presentation/d/18p7OwAoQyjTgugKAXoJdGsZU0GYZ1DGlZ_gvyo_goXQ/edit#slide=id.p)
-
+- NLP notebook: [link!](https://notebooks.quantumstat.com/?fbclid=IwAR1wuoEEv9XhDjL_UEz5yl4de6AQSgXGHtw0aV_pIjnzdfeavaMHG3k3Y1I#/)
 ## Recommend System:
 - Week1: paper, doccument: [note](https://docs.google.com/document/d/1vInVmp2nKQAhsXQI0deI0aniaQ2IUPiuyOIf3YNOmv4/edit#heading=h.6yhb4qdx3668)
 - Week2,3: paper, doccument

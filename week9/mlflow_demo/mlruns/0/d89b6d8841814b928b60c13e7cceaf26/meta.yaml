@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Toan/OneDrive/Desktop/Intern-doc/week9/mnist/mlruns/0/d89b6d8841814b928b60c13e7cceaf26/artifacts
+end_time: 1625038317352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d89b6d8841814b928b60c13e7cceaf26
+run_uuid: d89b6d8841814b928b60c13e7cceaf26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625038316934
+status: 3
+tags: []
+user_id: Toan

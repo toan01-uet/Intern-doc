@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Toan/OneDrive/Desktop/Intern-doc/week9/mlflow_demo/MLflow_Tracking/mlruns/0/bcac5457ddba49f692e1a9635be41400/artifacts
+end_time: 1625479025788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bcac5457ddba49f692e1a9635be41400
+run_uuid: bcac5457ddba49f692e1a9635be41400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625479025298
+status: 3
+tags: []
+user_id: Toan

@@ -1,4 +1,6 @@
 # MLflow demo
+<img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="200">
+
 ## 0. Reference
 - [MLflow docs](https://mlflow.org/docs/latest/index.html)
 - [Isaac4real MLflow Experiment](https://github.com/Isaac4real/MLflow_Experiment/tree/master/Part4-%20MLflow%20Registry_locally)
@@ -16,7 +18,7 @@
 ## 2. Mlflow projects
 - In mlflow ui, if you run ml tracking, mlflow will generate ```MlModel```, ```conda.yaml```, ```model.pkl```, ```requirement.txt``` file.
 
-    ![gen file](img\mlflow_project_model.png)
+    <img src="https://github.com/toan01-uet/Intern-doc/blob/main/week9/img/mlflow_project_model.png" width="200">
 
 - To build Mlflow projects, you can copy them(```conda.yaml```, ```MlModel```).
 - Example to run experiment (direct to mlflow_demo):
@@ -30,10 +32,10 @@
 ## 3. Mlflow models
 - Use  ```infer_signature()``` to auto format inputs, output of model.
 
-    ![signature](img\signature_mlflow_model.png)
+    <img src="https://github.com/toan01-uet/Intern-doc/blob/main/week9/img/signature_mlflow_model.png" width="200">
 
 
-    ![example](img\signature_model.png)
+    <img src="https://github.com/toan01-uet/Intern-doc/blob/main/week9/img/signature_model.png" width="200">
 
 
 ## 4. Mlflow registry (in local)

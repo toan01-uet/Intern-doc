@@ -16,7 +16,7 @@
 ## 2. Mlflow projects
 - In mlflow ui, if you run ml tracking, mlflow will generate ```MlModel```, ```conda.yaml```, ```model.pkl```, ```requirement.txt``` file.
 
-    ![gen file](img\mlflow_project_model.png)
+    ![gen file](week9/img/mlflow_project_model.png)
 
 - To build Mlflow projects, you can copy them(```conda.yaml```, ```MlModel```).
 - Example to run experiment (direct to mlflow_demo):
@@ -30,10 +30,10 @@
 ## 3. Mlflow models
 - Use  ```infer_signature()``` to auto format inputs, output of model.
 
-    ![signature](img\signature_mlflow_model.png)
+    ![signature](week9/img/signature_mlflow_model.png)
 
 
-    ![example](img\signature_model.png)
+    ![example](week9/img/signature_model.png)
 
 
 ## 4. Mlflow registry (in local)
